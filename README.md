@@ -1,11 +1,13 @@
-# 👋 Hi, I'm @eero-hirsimaki! #
+# 👋 Hello World, I'm Eero Hirsimäki! #
 
+👨‍🎓 I'm Software Developer Student
+🌍 I'm from Finland.
 💻 I'm a passionate developer with a love for game and software development. 
 🚀 I enjoy learning new technologies.
 🌱 Currently, I'm diving deeper into C# and .Net.  
 
 📫 Feel free to connect with me:  
-- Email: eero.hirsimaeki[@]gmail.com 
+- [Email](mailto:eero.hirsimaeki@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/eero-hirsimäki-016312267/)
 
 ✨ Let's create something amazing together!  
