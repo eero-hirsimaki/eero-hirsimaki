@@ -6,7 +6,7 @@
 
 📫 Feel free to connect with me:  
 - Email: eero.hirsimaeki[@]gmail.com 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eero-hirsimäki-016312267/)
+- [LinkedIn](https://www.linkedin.com/in/eero-hirsimäki-016312267/)
 
 ✨ Let's create something amazing together!  
 
