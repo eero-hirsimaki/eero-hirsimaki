@@ -1,10 +1,10 @@
 # 👋 Hello World, I'm Eero Hirsimäki! #
 
-👨‍🎓 I'm Software Developer Student <br>
+👨‍🎓 I'm Software Developer Student in [SASKY](https://www.sasky.fi) <br>
 🌍 I'm from Finland. <br>
 💻 I'm a passionate developer with a love for game and software development. <br>
 🚀 I enjoy learning new technologies.<br>
-🌱 Currently, I'm diving deeper into C# and .Net. <br>
+🌱 Currently, I'm diving deeper into C# <br>
 
 ### 📫 Feel free to connect with me: ###  
 - [Email](mailto:eero.hirsimaeki@gmail.com)
